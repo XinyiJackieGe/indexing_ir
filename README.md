@@ -22,7 +22,8 @@ Start tomcat. In the browser, type "http://localhost:8080/indexing/".
 Upload an xml file and click Parse.
 
 ## Source Codes
-Source codes are in indexing.zip file. 
+Source codes are in src folder. 
+form.html and web.xml are in WebContent folder.
 
 ## Features
 List of features ready and TODOs for future development
